@@ -1,12 +1,16 @@
-# Banking Application
+# 20CYS383 Java Programming Lab
+![](https://img.shields.io/badge/Batch-21CYS-lightgreen) ![](https://img.shields.io/badge/UG-blue) ![](https://img.shields.io/badge/Subject-JPL-blue)
 
-## Project Description
+## Banking Application
 
-The goal is to create a user-friendly interface that allows users to log in, view their account balance, transfer
-money to another account, and log out. The application should authenticate the user's login credentials and
-handle the balance updates and transfer operations accurately.
+### Project Description
+
+<p text-align: justify;>The goal is to create a user-friendly interface that allows users to log in, view their account balance, transfer money to another account, and log out. The application should authenticate the user's login credentials and
+handle the balance updates and transfer operations accurately.</p>
 
 ### Code
+
+#### BankingApplicationGUI.java
 ```
 import javax.swing.*;
 import java.awt.*;
@@ -217,5 +221,12 @@ public class BankingApplicationGUI extends JFrame {
 ```
 ### Demo
 #### Screenshots
+<center><img src = "/home/kunny/Pictures/images/1.png"></center>
+<center><img src = "./Pictures/2.png"></center>
+<center><img src = "./Pictures/3.png"></center>
+<center><img src = "./Pictures/4.png"></center>
+<center><img src = "./Pictures/5.png"></center>
+<center><img src = "./Pictures/6.png"></center>
 
 #### Video
+<img src = "./video/video.gif">
