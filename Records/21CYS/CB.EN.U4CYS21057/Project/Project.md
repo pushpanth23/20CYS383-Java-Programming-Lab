@@ -221,12 +221,12 @@ public class BankingApplicationGUI extends JFrame {
 ```
 ### Demo
 #### Screenshots
-<center><img src = "/home/kunny/Pictures/images/1.png"></center>
-<center><img src = "./Pictures/2.png"></center>
-<center><img src = "./Pictures/3.png"></center>
-<center><img src = "./Pictures/4.png"></center>
-<center><img src = "./Pictures/5.png"></center>
-<center><img src = "./Pictures/6.png"></center>
+<center><img src = "./images/1.png"></center>
+<center><img src = "./images/2.png"></center>
+<center><img src = "./images/3.png"></center>
+<center><img src = "./images/4.png"></center>
+<center><img src = "./images/5.png"></center>
+<center><img src = "./images/6.png"></center>
 
 #### Video
 <img src = "./video/video.gif">
