@@ -1,13 +1,13 @@
-Banking Application
+# Banking Application
 
-Project Description
+## Project Description
 
 The goal is to create a user-friendly interface that allows users to log in, view their account balance, transfer
 money to another account, and log out. The application should authenticate the user's login credentials and
 handle the balance updates and transfer operations accurately.
 
-Code
-
+### Code
+```
 import javax.swing.*;
 import java.awt.*;
 import java.awt.event.ActionEvent;
@@ -214,8 +214,8 @@ public class BankingApplicationGUI extends JFrame {
         });
     }
 }
+```
+### Demo
+#### Screenshots
 
-Demo
-Screenshots
-
-Video
+#### Video
